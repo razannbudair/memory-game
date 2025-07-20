@@ -22,5 +22,5 @@ A simple and interactive **Memory Matching Game** built using HTML, CSS, and Jav
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/razann/memory-name.git
+   git clone https://github.com/razann/memory-game.git
 
