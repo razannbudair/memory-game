@@ -1,6 +1,6 @@
-# 🧠 Memory Game
+# 🧠 Memory Game - [try it now!](https://razannbudair.github.io/memory-game/)
 
-## 🎮 Preview
+##Preview
 
 ![Game Screenshot](https://github.com/razannbudair/memory-game/blob/main/secreenshot.png)
 
